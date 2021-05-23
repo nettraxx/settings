@@ -1,0 +1,3 @@
+#!/bin/sh
+wget -qO - http://127.0.0.1/web/servicelistreload?mode=0
+exit 0

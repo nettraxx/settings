@@ -1,0 +1,6 @@
+#!/bin/sh
+rm -rf /etc/enigma2/bouquets.tv
+rm -rf /etc/enigma2/bouquets.radio
+rm -rf /etc/enigma2/userbouquet.*
+rm -rf /etc/enigma2/lamedb
+exit 0

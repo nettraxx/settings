@@ -1,0 +1,9 @@
+Package: enigma2-plugin-settings-astra
+Version: 210227
+Section: misc
+Priority: optional
+Architecture: all
+Depends: enigma2
+Maintainer: 
+Description: Settings Astra 19.2
+Source: 

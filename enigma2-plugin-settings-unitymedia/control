@@ -1,0 +1,9 @@
+Package: enigma2-plugin-settings-unitymedia
+Version: 210227
+Section: misc
+Priority: optional
+Architecture: all
+Depends: enigma2
+Maintainer: 
+Description: Settings UM NRW Ruhrpott 
+Source: 
