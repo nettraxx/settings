@@ -1,28 +1,301 @@
 eDVB services /4/
 transponders
-ffff0000:00bf:0000
-	c 450000:6900000:2:5:0:0:0
+00c00000:03e9:0001
+	s 11214000:22000000:0:2:192:2:0:1:2:2:2
 /
-ffff0000:00d3:0000
-	c 426000:6900000:2:5:0:0:0
+00c00000:03ea:0001
+	s 11229000:22000000:1:2:192:2:0:1:2:2:2
 /
-ffff0000:00f1:0000
-	c 418000:6900000:2:5:0:0:0
+00c00000:03eb:0001
+	s 11243000:22000000:0:4:192:2:0
 /
-ffff0000:010f:0000
-	c 434000:6900000:2:5:0:0:0
+00c00000:03ec:0001
+	s 11258000:22000000:1:2:192:2:0:1:2:0:2
 /
-ffff0000:01cd:0000
-	c 442000:6900000:2:5:0:0:0
+00c00000:03ed:0001
+	s 11273000:22000000:0:2:192:2:0:1:2:0:2
 /
-ffff0000:01d7:0000
-	c 402000:6900000:2:5:0:0:0
+00c00000:03ee:0001
+	s 11288000:22000000:1:2:192:2:0:1:2:2:2
 /
-ffff0000:01e1:0000
-	c 410000:6900000:2:5:0:0:0
+00c00000:03ef:0001
+	s 11302000:22000000:0:2:192:2:0:1:2:0:2
 /
-ffff0000:01ff:0000
-	c 458000:6900000:2:5:0:0:0
+00c00000:03f0:0001
+	s 11317000:22000000:1:4:192:2:0
+/
+00c00000:03f2:0001
+	s 11347000:22000000:1:2:192:2:0:1:2:0:2
+/
+00c00000:03f3:0001
+	s 11361000:22000000:0:2:192:2:0:1:2:0:2
+/
+00c00000:03f4:0001
+	s 11376000:22000000:1:2:192:2:0:1:2:0:2
+/
+00c00000:03f5:0001
+	s 11391000:22000000:0:4:192:2:0
+/
+00c00000:03f7:0001
+	s 11420000:22000000:0:4:192:2:0
+/
+00c00000:03f8:0001
+	s 11435000:22000000:1:2:192:2:0:1:2:0:2
+/
+00c00000:03f9:0001
+	s 11464000:22000000:0:2:192:2:0:1:2:0:2
+/
+00c00000:03fb:0001
+	s 11493000:22000000:0:2:192:2:0:1:2:0:2
+/
+00c00000:03fc:0001
+	s 11508000:22000000:1:4:192:2:0
+/
+00c00000:03fd:0001
+	s 11523000:22000000:0:2:192:2:0:1:2:0:2
+/
+00c00000:03fe:0001
+	s 11538000:22000000:1:4:192:2:0
+/
+00c00000:03ff:0001
+	s 11552000:22000000:0:2:192:2:0:1:2:0:2
+/
+00c00000:0401:0001
+	s 11582000:22000000:0:2:192:2:0:1:2:0:2
+/
+00c00000:0402:0001
+	s 11597000:22000000:1:4:192:2:0
+/
+00c00000:0403:0001
+	s 11611000:22000000:0:4:192:2:0
+/
+00c00000:0404:0001
+	s 11626000:22000000:1:4:192:2:0
+/
+00c00000:0406:0001
+	s 11656000:22000000:1:2:192:2:0:1:2:0:2
+/
+00c00000:0407:0001
+	s 11670000:22000000:0:2:192:2:0:1:2:0:2
+/
+00c00000:0408:0001
+	s 11685000:22000000:1:4:192:2:0
+/
+00c00000:0409:0001
+	s 10964000:22000000:0:2:192:2:0:1:2:0:2
+/
+00c00000:040a:0001
+	s 10979000:22000000:1:4:192:2:0
+/
+00c00000:040b:0001
+	s 10993000:22000000:0:4:192:2:0:1:2:0:2
+/
+00c00000:040e:0001
+	s 11038000:22000000:1:4:192:2:0
+/
+00c00000:040f:0001
+	s 11052000:22000000:0:2:192:2:0:1:2:0:2
+/
+00c00000:0410:0001
+	s 11067000:22000000:1:4:192:2:0
+/
+00c00000:0411:0001
+	s 11082000:22000000:0:3:192:2:0:1:2:2:2
+/
+00c00000:0412:0001
+	s 11097000:22000000:1:4:192:2:0
+/
+00c00000:0413:0001
+	s 11111000:22000000:0:2:192:2:0:1:2:0:2
+/
+00c00000:0414:0001
+	s 11126000:22000000:1:2:192:2:0:1:2:0:2
+/
+00c00000:0416:0001
+	s 11156000:22000000:1:4:192:2:0
+/
+00c00000:041a:0001
+	s 10729000:22000000:1:2:192:2:0:1:2:0:2
+/
+00c00000:041b:0001
+	s 10743000:22000000:0:4:192:2:0
+/
+00c00000:041c:0001
+	s 10758000:22000000:1:4:192:2:0
+/
+00c00000:041d:0001
+	s 10773000:22000000:0:3:192:2:0:1:2:2:2
+/
+00c00000:041e:0001
+	s 10788000:22000000:1:4:192:2:0
+/
+00c00000:041f:0001
+	s 10802000:22000000:0:3:192:2:0:1:2:0:2
+/
+00c00000:0420:0001
+	s 10817000:22000000:1:2:192:2:0:1:2:0:2
+/
+00c00000:0421:0001
+	s 10832000:22000000:0:2:192:2:0:1:2:0:2
+/
+00c00000:0422:0001
+	s 10847000:22000000:1:4:192:2:0
+/
+00c00000:0424:0001
+	s 10876000:22000000:1:4:192:2:0
+/
+00c00000:0425:0001
+	s 10891000:22000000:0:2:192:2:0:1:2:0:2
+/
+00c00000:0426:0001
+	s 10906000:22000000:1:2:192:2:0:1:2:0:2
+/
+00c00000:0428:0001
+	s 10935000:22000000:1:2:192:2:0:1:2:0:2
+/
+00c00000:042c:0001
+	s 11778000:29500000:1:9:192:2:0:1:1:1:2
+/
+00c00000:042e:0001
+	s 11817000:29700000:1:2:192:2:0:1:2:0:2
+/
+00c00000:0430:0001
+	s 11856000:29700000:1:2:192:2:0:1:2:0:2
+/
+00c00000:0431:0001
+	s 12109000:27500000:0:3:192:2:0
+/
+00c00000:0432:0001
+	s 11895000:29700000:1:2:192:2:0:1:2:1:2
+/
+00c00000:0434:0001
+	s 11934000:29700000:1:2:192:2:0:1:2:1:2
+/
+00c00000:0436:0001
+	s 11973000:27500000:1:3:192:2:0
+/
+00c00000:0437:0001
+	s 11953000:27500000:0:3:192:2:0
+/
+00c00000:0438:0001
+	s 12012000:29700000:1:2:192:2:0:1:2:0:2
+/
+00c00000:043a:0001
+	s 12051000:27500000:1:3:192:2:0
+/
+00c00000:043c:0001
+	s 12090000:29700000:1:2:192:2:0:1:2:0:2
+/
+00c00000:0440:0001
+	s 12168000:29700000:1:2:192:2:0:1:2:0:2
+/
+00c00000:0441:0001
+	s 12187000:27500000:0:3:192:2:0
+/
+00c00000:0442:0001
+	s 12207000:29700000:1:2:192:2:0:1:2:0:2
+/
+00c00000:0443:0001
+	s 12226000:27500000:0:3:192:2:0
+/
+00c00000:0446:0001
+	s 12285000:29700000:1:2:192:2:0:1:2:0:2
+/
+00c00000:0448:0001
+	s 12324000:29700000:1:2:192:2:0:1:2:1:2
+/
+00c00000:0449:0001
+	s 12343000:30000000:0:2:192:2:0:1:2:2:2
+/
+00c00000:044a:0001
+	s 12363000:27500000:1:3:192:2:0
+/
+00c00000:044c:0001
+	s 12402000:29700000:1:2:192:2:0:1:2:1:2
+/
+00c00000:044d:0001
+	s 11836000:27500000:0:3:192:2:0
+/
+00c00000:0452:0001
+	s 12522000:22000000:1:2:192:2:0:1:2:2:2
+/
+00c00000:0453:0001
+	s 12544000:22000000:0:4:192:2:0
+/
+00c00000:0454:0001
+	s 12551000:22000000:1:4:192:2:0
+/
+00c00000:0455:0001
+	s 12574000:22000000:0:2:192:2:0:1:2:0:2
+/
+00c00000:0457:0001
+	s 12603000:22000000:0:4:192:2:0
+/
+00c00000:0459:0001
+	s 12633000:22000000:0:4:192:2:0
+/
+00c00000:045b:0001
+	s 12662000:22000000:0:4:192:2:0
+/
+00c00000:045d:0001
+	s 12692000:22000000:0:4:192:2:0
+/
+00c00000:0460:0001
+	s 12728000:23500000:1:2:192:2:0:1:2:1:2
+/
+00c00000:04b1:0001
+	s 12421000:27500000:0:3:192:2:0
+/
+00c00000:0451:0035
+	s 12515000:22000000:0:4:192:2:0
+/
+00c00000:0002:0085
+	s 11758000:27500000:0:9:192:2:0:1:1:0:2
+/
+00c00000:0003:0085
+	s 11719000:27500000:0:9:192:2:0:1:1:0:2
+/
+00c00000:0004:0085
+	s 12031000:27500000:0:9:192:2:0:1:1:0:2
+/
+00c00000:0005:0085
+	s 12460000:27500000:0:3:192:2:0
+/
+00c00000:0006:0085
+	s 11914000:27500000:0:9:192:2:0:1:1:0:2
+/
+00c00000:0007:0085
+	s 12148000:27500000:0:3:192:2:0
+/
+00c00000:0008:0085
+	s 12070000:27500000:0:9:192:2:0:1:1:0:2
+/
+00c00000:0009:0085
+	s 11170000:22000000:0:3:192:2:0:1:2:0:2
+/
+00c00000:000b:0085
+	s 12382000:27500000:0:3:192:2:0:1:2:0:2
+/
+00c00000:000c:0085
+	s 12304000:27500000:0:9:192:2:0:1:1:0:2
+/
+00c00000:000d:0085
+	s 11992000:27500000:0:9:192:2:0:1:1:0:2
+/
+00c00000:000e:0085
+	s 11876000:27500000:0:3:192:2:0:1:2:0:2
+/
+00c00000:000f:0085
+	s 10920000:22000000:0:5:192:2:0
+/
+00c00000:0010:0085
+	s 11797000:27500000:0:9:192:2:0:1:1:0:2
+/
+00c00000:0021:0085
+	s 12480000:27500000:1:3:192:2:0
+/
+ffff0000:008d:0000
+	c 274000:6900000:2:5:0:0:0
 /
 ffff0000:0437:0066
 	c 338000:6900000:2:5:0:0:0
@@ -53,9 +326,6 @@ ffff0000:0079:270f
 /
 ffff0000:0083:270f
 	c 346000:6900000:2:5:0:0:0
-/
-ffff0000:008d:270f
-	c 274000:6900000:2:5:0:0:0
 /
 ffff0000:0097:270f
 	c 298000:6900000:2:5:0:0:0
@@ -137,29 +407,83 @@ ffff0000:044d:a401
 /
 end
 services
-0001:ffff0000:00bf:0000:1:0
-450 SID 0x01
+3717:ffff0000:008d:0000:1:0
+274 SID 0x3717
 p:
-0001:ffff0000:00d3:0000:1:0
-426 SID 0x01
+3719:ffff0000:008d:0000:1:0
+274 SID 0x3719
 p:
-0001:ffff0000:00f1:0000:1:0
-418 SID 0x01
+371e:ffff0000:008d:0000:1:0
+274 SID 0x371e
 p:
-0001:ffff0000:010f:0000:1:0
-434 SID 0x01
+371f:ffff0000:008d:0000:1:0
+274 SID 0x371f
 p:
-0001:ffff0000:01cd:0000:1:0
-442 SID 0x01
+372b:ffff0000:008d:0000:1:0
+274 SID 0x372b
 p:
-0001:ffff0000:01d7:0000:1:0
-402 SID 0x01
+372f:ffff0000:008d:0000:1:0
+274 SID 0x372f
 p:
-0001:ffff0000:01e1:0000:1:0
-410 SID 0x01
+3731:ffff0000:008d:0000:1:0
+274 SID 0x3731
 p:
-0001:ffff0000:01ff:0000:1:0
-458 SID 0x01
+3732:ffff0000:008d:0000:1:0
+274 SID 0x3732
+p:
+3729:ffff0000:008d:0000:2:0
+274 SID 0x3729
+p:
+372a:ffff0000:008d:0000:2:0
+274 SID 0x372a
+p:
+2b81:ffff0000:008d:0000:2:0
+274 SID 0x2b81
+p:
+2b82:ffff0000:008d:0000:2:0
+274 SID 0x2b82
+p:
+2b83:ffff0000:008d:0000:2:0
+274 SID 0x2b83
+p:
+2b84:ffff0000:008d:0000:2:0
+274 SID 0x2b84
+p:
+2b85:ffff0000:008d:0000:2:0
+274 SID 0x2b85
+p:
+2b86:ffff0000:008d:0000:2:0
+274 SID 0x2b86
+p:
+2b87:ffff0000:008d:0000:2:0
+274 SID 0x2b87
+p:
+2b88:ffff0000:008d:0000:2:0
+274 SID 0x2b88
+p:
+2b89:ffff0000:008d:0000:2:0
+274 SID 0x2b89
+p:
+2b8a:ffff0000:008d:0000:2:0
+274 SID 0x2b8a
+p:
+2b8b:ffff0000:008d:0000:2:0
+274 SID 0x2b8b
+p:
+2b8c:ffff0000:008d:0000:2:0
+274 SID 0x2b8c
+p:
+2b8d:ffff0000:008d:0000:2:0
+274 SID 0x2b8d
+p:
+2b8e:ffff0000:008d:0000:2:0
+274 SID 0x2b8e
+p:
+2b8f:ffff0000:008d:0000:2:0
+274 SID 0x2b8f
+p:
+2b90:ffff0000:008d:0000:2:0
+274 SID 0x2b90
 p:
 6d66:ffff0000:0437:0066:1:0
 ZDF
@@ -190,28 +514,25 @@ ZDF HD
 p:ZDFvision
 0008:ffff0000:0001:0085:1:0
 Sky Cinema Fun
-p:SKY,C:0000
+p:SKY
 0013:ffff0000:0001:0085:1:0
 Junior
 p:SKY
 008a:ffff0000:0001:0085:1:0
 Nick.Jr.
-p:SKY,C:0000
+p:SKY
 0101:ffff0000:0001:0085:25:0
 Sky Sport Bundesliga 10 HD
 p:SKY
 0102:ffff0000:0001:0085:25:0
 Sky Sport 11 HD
 p:SKY
-0103:ffff0000:0001:0085:25:0
-Sky Sport Austria 4 HD
-p:SKY
 0104:ffff0000:0001:0085:25:0
-Eurosport360 HD 9
+Eurosport360HD 9
 p:SKY
 0017:ffff0000:0001:0085:25:0
 Sky Krimi HD
-p:SKY,C:0000
+p:SKY
 0129:ffff0000:0001:0085:25:0
 Sky Sport Bundesliga 5 HD
 p:SKY
@@ -219,38 +540,41 @@ p:SKY
 Sky Sport 6 HD
 p:SKY
 012c:ffff0000:0001:0085:25:0
-Eurosport360 HD 4
+Eurosport360HD 4
 p:SKY
-0144:ffff0000:0001:0085:25:0
-DAZN 1 Bar HD
+0155:ffff0000:0001:0085:25:0
+Prime Video Sportsbar
 p:SKY
 0065:ffff0000:0001:0085:25:0
 Universal TV HD
-p:SKY,C:0000
+p:SKY
 007e:ffff0000:0001:0085:25:0
 SYFY HD
-p:SKY,C:0000
+p:SKY
 007f:ffff0000:0001:0085:25:0
 13th Street HD
-p:SKY,C:0000
+p:SKY
 0085:ffff0000:0001:0085:25:0
 Beate Uhse HD
-p:SKY,C:0000
+p:SKY
 0f03:ffff0000:0001:0085:100:0
 386 SID 0xf03
 p:
 0204:ffff0000:0003:0085:1:0
 Sky Cinema Classics
-p:SKY,C:0000
+p:SKY
 0206:ffff0000:0003:0085:1:0
 Romance TV
-p:SKY,C:0000
+p:SKY
 0016:ffff0000:0003:0085:1:0
 Heimatkanal
 p:SKY,C:0000
+001d:ffff0000:0003:0085:1:0
+Warner TV Comedy
+p:SKY,C:0000
 002b:ffff0000:0003:0085:1:0
 Sky Cinema Premieren +24
-p:SKY,C:0000
+p:SKY
 0dad:ffff0000:0003:0085:1:0
 GFD Service
 p:SKY
@@ -264,10 +588,10 @@ p:SKY
 STB channel config.
 p:betaresearch
 000d:ffff0000:0003:0085:25:0
-Sky Crime HD
+Sky Crime HD
 p:SKY,C:0000
 000e:ffff0000:0003:0085:25:0
-Sky Comedy HD
+Sky Comedy HD
 p:SKY,C:0000
 013d:ffff0000:0003:0085:25:0
 Sky Sport Bundesliga 7 HD
@@ -276,7 +600,7 @@ p:SKY
 Sky Sport 8 HD
 p:SKY
 0140:ffff0000:0003:0085:25:0
-Eurosport360 HD 6
+Eurosport360HD 6
 p:SKY
 0147:ffff0000:0003:0085:25:0
 Sky Sport Bundesliga 8 HD
@@ -284,11 +608,8 @@ p:SKY
 0148:ffff0000:0003:0085:25:0
 Sky Sport 9 HD
 p:SKY
-0149:ffff0000:0003:0085:25:0
-Sky Sport Austria 2 HD
-p:SKY
 014a:ffff0000:0003:0085:25:0
-Eurosport360 HD 7
+Eurosport360HD 7
 p:SKY
 0dac:ffff0000:0003:0085:149:0
 BEM Service
@@ -296,32 +617,11 @@ p:SKY
 00c8:ffff0000:0003:0085:198:0
 BDL VoD
 p:SKY
-0159:ffff0000:0003:0085:211:0
-.
-p:SKY
-0163:ffff0000:0003:0085:211:0
-.
-p:SKY
-016d:ffff0000:0003:0085:211:0
-.
-p:SKY
-0201:ffff0000:0004:0085:1:0
-.
-p:SKY
 001c:ffff0000:0004:0085:1:0
 Boomerang
-p:SKY,C:0000
-001d:ffff0000:0004:0085:1:0
-TNT Comedy
-p:SKY,C:0000
-001e:ffff0000:0004:0085:1:0
-Sky Sport Austria 1
-p:SKY,C:0000
-0034:ffff0000:0004:0085:1:0
-Spiegel Geschichte
 p:SKY
 0195:ffff0000:0004:0085:1:0
-TNT Film
+Warner TV Film
 p:SKY
 0197:ffff0000:0004:0085:1:0
 Sky Cinema Family
@@ -332,9 +632,15 @@ p:SKY
 0daf:ffff0000:0004:0085:1:0
 SDMS Service 2
 p:SKY
+000f:ffff0000:0004:0085:25:0
+Sky Nature HD
+p:SKY,C:0000
+0010:ffff0000:0004:0085:25:0
+Sky Documentaries HD
+p:SKY,C:0000
 0011:ffff0000:0004:0085:25:0
 Sky Sport F1 HD
-p:SKY,C:0000
+p:SKY
 0133:ffff0000:0004:0085:25:0
 Sky Sport Bundesliga 6 HD
 p:SKY
@@ -342,10 +648,7 @@ p:SKY
 Sky Sport 7 HD
 p:SKY
 0136:ffff0000:0004:0085:25:0
-Eurosport360 HD 5
-p:SKY
-014f:ffff0000:0004:0085:25:0
-DAZN 2 Bar HD
+Eurosport360HD 5
 p:SKY
 0151:ffff0000:0004:0085:25:0
 Sky Sport Bundesliga 9 HD
@@ -353,20 +656,14 @@ p:SKY
 0152:ffff0000:0004:0085:25:0
 Sky Sport 10 HD
 p:SKY
-0153:ffff0000:0004:0085:25:0
-Sky Sport Austria 3 HD
-p:SKY
 0154:ffff0000:0004:0085:25:0
-Eurosport360 HD 8
-p:SKY
-0155:ffff0000:0004:0085:25:0
-Eurosport 2 HD Xtra
-p:SKY
-0075:ffff0000:0004:0085:25:0
-Sky Serien & Shows HD
+Eurosport360HD 8
 p:SKY
 0a83:ffff0000:0004:0085:193:0
 NDS Applikation
+p:SKY
+0034:ffff0000:0006:0085:1:0
+Spiegel Geschichte
 p:SKY
 010b:ffff0000:0006:0085:25:0
 Sky Sport Bundesliga 2 HD
@@ -375,16 +672,16 @@ p:SKY
 Sky Sport 3 HD
 p:SKY
 010e:ffff0000:0006:0085:25:0
-Eurosport360 HD 1
+Eurosport360HD 1
 p:SKY
 0076:ffff0000:0006:0085:25:0
 National Geographic Wild HD
-p:SKY,C:0000
+p:SKY
 007b:ffff0000:0006:0085:25:0
-TNT Serie HD
+Warner TV Serie HD
 p:SKY
 007c:ffff0000:0006:0085:25:0
-Fox HD
+Sky Replay HD
 p:SKY
 0081:ffff0000:0006:0085:25:0
 Sky Sport 1 HD
@@ -405,17 +702,17 @@ p:SKY
 Sky Sport 5 HD
 p:SKY
 0122:ffff0000:000c:0085:25:0
-Eurosport360 HD 3
+Eurosport360HD 3
 p:SKY
 0069:ffff0000:000c:0085:25:0
 Sky Sport Bundesliga 1 HD
 p:SKY,C:0000
 006c:ffff0000:000c:0085:25:0
 Sky Sport News HD
-p:SKY
+p:SKY,C:0000
 0228:ffff0000:000c:0085:31:0
 Sky Sport Bundesliga UHD
-p:SKY
+p:SKY,C:0000
 0229:ffff0000:000c:0085:31:0
 Sky Sport UHD
 p:SKY
@@ -429,7 +726,7 @@ p:SKY
 Sky Sport 4 HD
 p:SKY
 0118:ffff0000:000d:0085:25:0
-Eurosport360 HD 2
+Eurosport360HD 2
 p:SKY
 006b:ffff0000:000d:0085:25:0
 Sky Cinema Best Of HD
@@ -438,8 +735,8 @@ p:SKY,C:0000
 Sky Atlantic HD
 p:SKY,C:0000
 006f:ffff0000:000d:0085:25:0
-Sky Cinema Special HD
-p:SKY
+Sky Cinema Special HD
+p:SKY,C:0000
 0070:ffff0000:000d:0085:25:0
 NatGeo HD
 p:SKY
@@ -478,10 +775,10 @@ phoenix HD
 p:ARD
 c79d:ffff0000:0079:270f:25:0
 WELT HD
-p:Unitymedia
+p:Unitymedia,C:0000
 c79e:ffff0000:0079:270f:25:0
 ntv HD
-p:Unitymedia
+p:Unitymedia,C:0000
 c79f:ffff0000:0079:270f:25:0
 Bibel TV HD
 p:Unitymedia
@@ -490,7 +787,7 @@ arte HD
 p:Unitymedia
 69e7:ffff0000:0079:270f:25:0
 Disney HD
-p:Unitymedia
+p:Unitymedia,C:0000
 6210:ffff0000:0083:270f:1:0
 Crime + Investigation
 p:Unitymedia
@@ -511,22 +808,22 @@ SONY AXN
 p:Unitymedia,C:0000
 3338:ffff0000:0083:270f:1:0
 kabel eins classics
-p:Unitymedia
+p:Unitymedia,C:0000
 3339:ffff0000:0083:270f:1:0
 SAT.1 emotions
-p:Unitymedia
+p:Unitymedia,C:0000
 3352:ffff0000:0083:270f:1:0
 CGTN Documentary
 p:Unitymedia
 3341:ffff0000:0083:270f:2:0
 Rock Hymnen
-p:Unitymedia - STINGRAY MUSIC
+p:Unitymedia - STINGRAY MUSIC,C:0000
 3342:ffff0000:0083:270f:2:0
 Headbangers
-p:Unitymedia - STINGRAY MUSIC
+p:Unitymedia - STINGRAY MUSIC,C:0000
 3343:ffff0000:0083:270f:2:0
 The Alternative
-p:Unitymedia - STINGRAY MUSIC
+p:Unitymedia - STINGRAY MUSIC,C:0000
 3344:ffff0000:0083:270f:2:0
 Dancefloor Fillers
 p:Unitymedia - STINGRAY MUSIC
@@ -641,90 +938,6 @@ p:UMKBW
 0bc7:ffff0000:0083:270f:193:0
 KBW_DS_evol5
 p:UMKBW
-3b04:ffff0000:008d:270f:1:0
-Lust Pur
-p:Unitymedia
-3717:ffff0000:008d:270f:1:0
-CNBC
-p:Unitymedia
-3719:ffff0000:008d:270f:1:0
-Boomerang
-p:Unitymedia
-371e:ffff0000:008d:270f:1:0
-EUROSPORT 2
-p:Unitymedia
-371f:ffff0000:008d:270f:1:0
-TNT Film
-p:Unitymedia
-372b:ffff0000:008d:270f:1:0
-Romance TV
-p:Unitymedia
-372f:ffff0000:008d:270f:1:0
-13th Street
-p:Unitymedia
-3731:ffff0000:008d:270f:1:0
-Fix&Foxi
-p:Unitymedia
-3732:ffff0000:008d:270f:1:0
-Bloomberg
-p:Unitymedia
-3733:ffff0000:008d:270f:1:0
-Baby TV
-p:Unitymedia
-3729:ffff0000:008d:270f:2:0
-BBC World Service (E)
-p:Unitymedia
-372a:ffff0000:008d:270f:2:0
-BBC World Service (Arab.)
-p:Unitymedia
-2b81:ffff0000:008d:270f:2:0
-Turk Muzigi
-p:Unitymedia - STINGRAY MUSIC,C:0000
-2b82:ffff0000:008d:270f:2:0
-Latin
-p:Unitymedia - STINGRAY MUSIC,C:0000
-2b83:ffff0000:008d:270f:2:0
-Volksmusik
-p:Unitymedia - STINGRAY MUSIC
-2b84:ffff0000:008d:270f:2:0
-Cool Jazz
-p:Unitymedia - STINGRAY MUSIC
-2b85:ffff0000:008d:270f:2:0
-Jazz Classics
-p:Unitymedia - STINGRAY MUSIC
-2b86:ffff0000:008d:270f:2:0
-Cocktail Lounge
-p:Unitymedia - STINGRAY MUSIC
-2b87:ffff0000:008d:270f:2:0
-Easy Listening Charts
-p:Unitymedia - STINGRAY MUSIC
-2b88:ffff0000:008d:270f:2:0
-Arabisch
-p:Unitymedia - STINGRAY MUSIC
-2b89:ffff0000:008d:270f:2:0
-Revival - 60er & 70er
-p:Unitymedia - STINGRAY MUSIC
-2b8a:ffff0000:008d:270f:2:0
-Classic Calm
-p:Unitymedia - STINGRAY MUSIC
-2b8b:ffff0000:008d:270f:2:0
-Rock 'n' Roll
-p:Unitymedia - STINGRAY MUSIC
-2b8c:ffff0000:008d:270f:2:0
-Total Hits Polen
-p:Unitymedia - STINGRAY MUSIC
-2b8d:ffff0000:008d:270f:2:0
-80er
-p:Unitymedia - STINGRAY MUSIC
-2b8e:ffff0000:008d:270f:2:0
-90er
-p:Unitymedia - STINGRAY MUSIC
-2b8f:ffff0000:008d:270f:2:0
-Chansons
-p:Unitymedia - STINGRAY MUSIC
-2b90:ffff0000:008d:270f:2:0
-Classic Rock
-p:Unitymedia - STINGRAY MUSIC
 3b06:ffff0000:0097:270f:1:0
 Bibel TV
 p:Unitymedia
@@ -744,7 +957,7 @@ p:Unitymedia
 France 5
 p:Unitymedia
 3b10:ffff0000:0097:270f:1:0
-TNT Comedy
+Warner TV Comedy
 p:Unitymedia
 3b11:ffff0000:0097:270f:1:0
 France 24 (en francais)
@@ -768,7 +981,7 @@ p:Unitymedia
 k-tv
 p:Unitymedia
 2f45:ffff0000:00a1:270f:1:0
-RTL Television
+RTL
 p:Unitymedia
 2f46:ffff0000:00a1:270f:1:0
 SAT.1
@@ -850,7 +1063,7 @@ p:Unitymedia
 p:Unitymedia
 6213:ffff0000:00b5:270f:1:0
 Show Max
-p:Unitymedia
+p:Unitymedia,C:0000
 5e25:ffff0000:00b5:270f:1:0
 COMEDY CENTRAL
 p:Unitymedia
@@ -886,7 +1099,7 @@ France 24 (in English)
 p:Unitymedia
 46c8:ffff0000:00b5:270f:1:0
 National Geographic
-p:Unitymedia
+p:Unitymedia,C:0000
 46c0:ffff0000:00b5:270f:2:0
 ERF Plus
 p:Unitymedia
@@ -898,13 +1111,13 @@ Radio Sunshine Live
 p:Unitymedia
 5656:ffff0000:00dd:270f:1:0
 Telebom / Tele Dom
-p:Unitymedia
+p:Unitymedia,C:0000
 5657:ffff0000:00dd:270f:1:0
 itvn
-p:Unitymedia
+p:Unitymedia,C:0000
 5658:ffff0000:00dd:270f:1:0
 Kanal 7
-p:Unitymedia
+p:Unitymedia,C:0000
 565a:ffff0000:00dd:270f:1:0
 Rai Uno
 p:Unitymedia
@@ -943,51 +1156,51 @@ Rai Radio 1
 p:Unitymedia
 5a3d:ffff0000:00e7:270f:1:0
 TV 8
-p:Unitymedia
+p:Unitymedia,C:0000
 5a3e:ffff0000:00e7:270f:1:0
 24Horas
-p:Unitymedia
+p:Unitymedia,C:0000
 5a40:ffff0000:00e7:270f:1:0
 EURO STAR
-p:Unitymedia
+p:Unitymedia,C:0000
 5a41:ffff0000:00e7:270f:1:0
 EURO D
-p:Unitymedia
+p:Unitymedia,C:0000
 5a42:ffff0000:00e7:270f:1:0
 Nasch Kinomir
-p:Unitymedia
+p:Unitymedia,C:0000
 5a43:ffff0000:00e7:270f:1:0
 RTPi
-p:Unitymedia
+p:Unitymedia,C:0000
 5a44:ffff0000:00e7:270f:1:0
 RTR Planeta
-p:Unitymedia
+p:Unitymedia,C:0000
 5a45:ffff0000:00e7:270f:1:0
 OstWest
-p:Unitymedia
+p:Unitymedia,C:0000
 5a46:ffff0000:00e7:270f:1:0
 TV Polonia
-p:Unitymedia
+p:Unitymedia,C:0000
 5a47:ffff0000:00e7:270f:1:0
 TVE Internacional
-p:Unitymedia
+p:Unitymedia,C:0000
 5a4d:ffff0000:00e7:270f:1:0
 Deutsches Musik Fernsehen
 p:Unitymedia
 5a4f:ffff0000:00e7:270f:1:0
 N24 Doku
 p:Unitymedia
-5a50:ffff0000:00e7:270f:1:0
-Fox Serie
-p:Unitymedia
 4e9c:ffff0000:00e7:270f:1:0
-RTLplus
+RTLup
 p:Unitymedia
 5a4a:ffff0000:00e7:270f:2:0
 Metropol FM
-p:Unitymedia
+p:Unitymedia,C:0000
 5a51:ffff0000:00e7:270f:2:0
 ROCK ANTENNE
+p:Unitymedia
+5a52:ffff0000:00e7:270f:2:0
+Beats Radio
 p:Unitymedia
 623f:ffff0000:00fb:270f:1:0
 Al Arabiya
@@ -1057,9 +1270,6 @@ Radio Paloma
 p:Unitymedia
 6255:ffff0000:00fb:270f:2:0
 Radio ZET
-p:Unitymedia
-6256:ffff0000:00fb:270f:2:0
-Schlager Radio
 p:Unitymedia
 6257:ffff0000:00fb:270f:2:0
 Slow Türk
@@ -1135,13 +1345,13 @@ HZN iStreamer
 p:Unitymedia
 7d66:ffff0000:0141:270f:25:0
 ProSieben HD
-p:Unitymedia,C:0000
+p:Unitymedia
 7d67:ffff0000:0141:270f:25:0
 kabel eins HD
-p:Unitymedia,C:0000
+p:Unitymedia
 7d68:ffff0000:0141:270f:25:0
 sixx HD
-p:Unitymedia,C:0000
+p:Unitymedia
 7d69:ffff0000:0141:270f:25:0
 ProSieben MAXX HD
 p:Unitymedia
@@ -1155,22 +1365,22 @@ p:Unitymedia
 NatGeo HD
 p:Unitymedia
 814e:ffff0000:014b:270f:25:0
-RTLZWEI HD
+RTLZWEI HD
 p:Unitymedia,C:0000
 814f:ffff0000:014b:270f:25:0
-VOX HD
-p:Unitymedia,C:0000
+VOX HD
+p:Unitymedia
 8150:ffff0000:014b:270f:25:0
 Super RTL HD
-p:Unitymedia,C:0000
+p:Unitymedia
 8151:ffff0000:014b:270f:25:0
 Nitro HD
 p:Unitymedia
-8152:ffff0000:014b:270f:25:0
-Mehr HD
-p:Unitymedia
 8153:ffff0000:014b:270f:25:0
 eSPORTS1 HD
+p:Unitymedia
+8154:ffff0000:014b:270f:25:0
+BILD HD
 p:Unitymedia
 94d7:ffff0000:014b:270f:25:0
 RTL Crime HD
@@ -1203,7 +1413,7 @@ p:Unitymedia
 Home & Garden TV
 p:Unitymedia
 98c3:ffff0000:0187:270f:1:0
-TNT Serie
+Warner TV Serie
 p:Unitymedia
 98c4:ffff0000:0187:270f:1:0
 TVN 24
@@ -1234,10 +1444,10 @@ ZDF_neo HD
 p:Unitymedia
 9ca5:ffff0000:0191:270f:25:0
 SONY AXN HD
-p:Unitymedia,C:0000
+p:Unitymedia
 9ca8:ffff0000:0191:270f:25:0
 SPORTDIGITAL FUSSBALL HD
-p:Unitymedia,C:0000
+p:Unitymedia
 9ca9:ffff0000:0191:270f:25:0
 SONY CHANNEL HD
 p:Unitymedia
@@ -1248,7 +1458,7 @@ p:Unitymedia
 13th Street HD
 p:Unitymedia,C:0000
 5274:ffff0000:019b:270f:25:0
-TNT Film HD
+Warner TV Film HD
 p:Unitymedia,C:0000
 a08d:ffff0000:019b:270f:25:0
 3sat HD
@@ -1264,7 +1474,7 @@ Sport1 HD
 p:Unitymedia,C:0000
 69ea:ffff0000:019b:270f:25:0
 SYFY HD
-p:Unitymedia
+p:Unitymedia,C:0000
 a476:ffff0000:01a5:270f:1:0
 Disney SD
 p:Unitymedia
@@ -1303,7 +1513,7 @@ EUROSPORT 1
 p:Unitymedia
 a861:ffff0000:01af:270f:1:0
 RTL Living
-p:Unitymedia
+p:Unitymedia,C:0000
 a862:ffff0000:01af:270f:1:0
 SPORT1
 p:Unitymedia
@@ -1323,7 +1533,7 @@ p:ZDFvision
 Romance TV HD
 p:Unitymedia,C:0000
 94d6:ffff0000:01af:270f:25:0
-TNT Comedy HD
+Warner TV Comedy HD
 p:Unitymedia,C:0000
 ac96:ffff0000:01b9:270f:1:0
 Nick
@@ -1350,11 +1560,14 @@ ac4a:ffff0000:01b9:270f:25:0
 Nick HD
 p:Unitymedia,C:0000
 ac4d:ffff0000:01b9:270f:25:0
-RTLplus HD
-p:Unitymedia
+RTLup HD
+p:Unitymedia,C:0000
 ac4f:ffff0000:01b9:270f:25:0
-Mehr HD
+DAZN 1
 p:Unitymedia
+ac95:ffff0000:01b9:270f:25:0
+DAZN 1 (Sky)
+p:SKY
 b417:ffff0000:01c3:270f:25:0
 DELUXE MUSIC HD
 p:Unitymedia
@@ -1367,12 +1580,15 @@ p:Unitymedia,C:0000
 b030:ffff0000:01c3:270f:25:0
 Eurosport 2 HD
 p:Unitymedia,C:0000
-b033:ffff0000:01c3:270f:25:0
-Fox HD
-p:Unitymedia
 b034:ffff0000:01c3:270f:25:0
-Mehr HD
-p:Unitymedia
+DAZN 2
+p:Unitymedia,C:0000
+b035:ffff0000:01c3:270f:25:0
+Sky One HD
+p:Unitymedia,C:0000
+b07a:ffff0000:01c3:270f:25:0
+DAZN 2 (Sky)
+p:SKY
 7980:ffff0000:01c3:270f:25:0
 DMAX HD
 p:Unitymedia,C:0000
@@ -1381,7 +1597,7 @@ Hayat TV
 p:Unitymedia,C:0000
 c3b7:ffff0000:01f5:270f:1:0
 Klan Kosova
-p:Unitymedia,C:0000
+p:Unitymedia
 c3b8:ffff0000:01f5:270f:1:0
 Kohavision TV
 p:Unitymedia
@@ -1418,11 +1634,17 @@ p:Unitymedia
 cf77:ffff0000:0213:270f:1:0
 Nederland 2
 p:Unitymedia
-cf78:ffff0000:0213:270f:2:0
-DOMRADIO
-p:Unitymedia
 cf79:ffff0000:0213:270f:2:0
 RADIO BOB!
+p:Unitymedia
+cf90:ffff0000:0213:270f:2:0
+Antenne NRW
+p:Unitymedia
+cf91:ffff0000:0213:270f:2:0
+Kulthit Radio NRW
+p:Unitymedia
+cf93:ffff0000:0213:270f:2:0
+Schlager Radio
 p:Unitymedia
 cf6e:ffff0000:0213:270f:25:0
 RTL HD
@@ -1452,7 +1674,7 @@ db2a:ffff0000:0231:270f:25:0
 SWR BW HD
 p:Unitymedia
 db2b:ffff0000:0231:270f:25:0
-TNT Serie HD
+Warner TV Serie HD
 p:Unitymedia
 df0e:ffff0000:023b:270f:25:0
 QVC Style HD
@@ -1473,7 +1695,7 @@ cf73:ffff0000:023b:270f:25:0
 NDR Niedersachsen HD
 p:Unitymedia
 e300:ffff0000:0245:270f:1:0
-KAZAKH TV
+Ukraina 24
 p:Unitymedia
 e301:ffff0000:0245:270f:1:0
 Pro TV International
@@ -1483,10 +1705,10 @@ Ginx TV
 p:Unitymedia
 e2fd:ffff0000:0245:270f:1:0
 Silverline Movie Channel
-p:Unitymedia,C:0000
+p:Unitymedia
 e2fe:ffff0000:0245:270f:1:0
 ATV Avrupa
-p:Unitymedia,C:0000
+p:Unitymedia
 e2ff:ffff0000:0245:270f:1:0
 France 4
 p:Unitymedia
@@ -1510,22 +1732,19 @@ BN TV
 p:Unitymedia,C:0000
 e6df:ffff0000:024f:270f:1:0
 CMC
-p:Unitymedia,C:0000
+p:Unitymedia
 e6e0:ffff0000:024f:270f:1:0
 DM SAT
-p:Unitymedia,C:0000
+p:Unitymedia
 e6e1:ffff0000:024f:270f:1:0
 Fashion TV
-p:Unitymedia,C:0000
+p:Unitymedia
 e6e2:ffff0000:024f:270f:1:0
 HRT TV 1
-p:Unitymedia,C:0000
+p:Unitymedia
 e6e3:ffff0000:024f:270f:1:0
 Motorvision
-p:Unitymedia,C:0000
-e6e4:ffff0000:024f:270f:1:0
-RTL Crime
-p:Unitymedia,C:0000
+p:Unitymedia
 e6e5:ffff0000:024f:270f:1:0
 RTS Sat
 p:Unitymedia
@@ -1534,6 +1753,9 @@ e6e6:ffff0000:024f:270f:1:0
 p:Unitymedia
 e6e7:ffff0000:024f:270f:1:0
 Nick.Jr.
+p:Unitymedia
+e737:ffff0000:024f:270f:2:0
+RDP Internacional
 p:Unitymedia
 e6e8:ffff0000:024f:270f:2:0
 HRT HR1
@@ -1549,12 +1771,9 @@ ONE
 p:ARD
 7034:ffff0000:041b:a401:1:0
 arte
-p:ARD
+p:Unitymedia
 7035:ffff0000:041b:a401:1:0
 phoenix
-p:ARD
-6f47:ffff0000:041b:a401:1:0
-ARD-alpha
 p:ARD
 2b5c:ffff0000:041b:a401:25:0
 Das Erste HD
@@ -1589,114 +1808,114 @@ p:ARD
 6e47:ffff0000:0431:a401:1:0
 SWR Fernsehen RP
 p:ARD
-6f0c:ffff0000:0431:a401:2:0
-MDR SACHSEN DD
-p:ARD MDR
-6f0d:ffff0000:0431:a401:2:0
-MDR S-ANHALT MD
-p:ARD MDR
-6f0e:ffff0000:0431:a401:2:0
-MDR THÜR Mitte-W
-p:ARD MDR
-6f0f:ffff0000:0431:a401:2:0
-MDR KULTUR
-p:ARD MDR
-6f10:ffff0000:0431:a401:2:0
-MDR JUMP
-p:ARD MDR
-6f11:ffff0000:0431:a401:2:0
-MDR SPUTNIK
-p:ARD MDR
-6f12:ffff0000:0431:a401:2:0
-MDR AKTUELL
-p:ARD MDR
-6f13:ffff0000:0431:a401:2:0
-MDR KLASSIK
-p:ARD MDR
-6f15:ffff0000:0431:a401:2:0
+28ac:ffff0000:0431:a401:10:0
 NDR 2 NDS
 p:ARD NDR
-6f16:ffff0000:0431:a401:2:0
+28ad:ffff0000:0431:a401:10:0
 NDR Kultur
 p:ARD NDR
-6f17:ffff0000:0431:a401:2:0
+28ae:ffff0000:0431:a401:10:0
 NDR Info NDS
 p:ARD NDR
-6f18:ffff0000:0431:a401:2:0
+28af:ffff0000:0431:a401:10:0
 N-JOY
 p:ARD NDR
-6f19:ffff0000:0431:a401:2:0
+28b0:ffff0000:0431:a401:10:0
 NDR 90,3
 p:ARD NDR
-6f1a:ffff0000:0431:a401:2:0
+28b1:ffff0000:0431:a401:10:0
 NDR1 Welle Nord KI
 p:ARD NDR
-6f1b:ffff0000:0431:a401:2:0
+28b2:ffff0000:0431:a401:10:0
 NDR 1 Radio MV SN
 p:ARD NDR
-6f1c:ffff0000:0431:a401:2:0
+28b3:ffff0000:0431:a401:10:0
 NDR 1 Nieders. HAN
 p:ARD NDR
-6f1d:ffff0000:0431:a401:2:0
-NDR Info Spez.
+28b4:ffff0000:0431:a401:10:0
+NDR Info Spezial
 p:ARD NDR
-6f1e:ffff0000:0431:a401:2:0
+28b5:ffff0000:0431:a401:10:0
 NDR Blue
 p:ARD NDR
-6f1f:ffff0000:0431:a401:2:0
-NDR Plus
+28b6:ffff0000:0431:a401:10:0
+NDR Schlager
 p:ARD NDR
-6f20:ffff0000:0431:a401:2:0
+28ba:ffff0000:0431:a401:10:0
 Bremen Eins
 p:ARD RB
-6f21:ffff0000:0431:a401:2:0
+28bb:ffff0000:0431:a401:10:0
 Bremen Zwei
 p:ARD RB
-6f22:ffff0000:0431:a401:2:0
+28bc:ffff0000:0431:a401:10:0
 Bremen Vier
 p:ARD RB
-6f24:ffff0000:0431:a401:2:0
-Inforadio
-p:ARD rbb
-6f25:ffff0000:0431:a401:2:0
-rbbKultur
-p:ARD rbb
-6f26:ffff0000:0431:a401:2:0
-Antenne Brandenburg
-p:ARD rbb
-6f27:ffff0000:0431:a401:2:0
-rbb 88.8
-p:ARD rbb
-6f28:ffff0000:0431:a401:2:0
-radioeins
-p:ARD rbb
-6f29:ffff0000:0431:a401:2:0
-Fritz
-p:ARD rbb
-6f31:ffff0000:0431:a401:2:0
+28c8:ffff0000:0431:a401:10:0
 SWR1 BW
 p:ARD SWR
-6f32:ffff0000:0431:a401:2:0
+28c9:ffff0000:0431:a401:10:0
 SWR1 RP
 p:ARD SWR
-6f33:ffff0000:0431:a401:2:0
+28ca:ffff0000:0431:a401:10:0
 SWR2
 p:ARD SWR
-6f34:ffff0000:0431:a401:2:0
+28cb:ffff0000:0431:a401:10:0
 SWR3
 p:ARD SWR
-6f35:ffff0000:0431:a401:2:0
+28cc:ffff0000:0431:a401:10:0
 SWR4 BW
 p:ARD SWR
-6f36:ffff0000:0431:a401:2:0
+28cd:ffff0000:0431:a401:10:0
 SWR4 RP
 p:ARD SWR
-6f37:ffff0000:0431:a401:2:0
+28ce:ffff0000:0431:a401:10:0
 DASDING
 p:ARD SWR
-6f38:ffff0000:0431:a401:2:0
+28cf:ffff0000:0431:a401:10:0
 SWR Aktuell
 p:ARD SWR
+28ea:ffff0000:0431:a401:10:0
+MDR SACHSEN DD
+p:ARD MDR
+28eb:ffff0000:0431:a401:10:0
+MDR S-ANHALT MD
+p:ARD MDR
+28ec:ffff0000:0431:a401:10:0
+MDR THÜR Mitte-W
+p:ARD MDR
+28ed:ffff0000:0431:a401:10:0
+MDR KULTUR
+p:ARD MDR
+28ee:ffff0000:0431:a401:10:0
+MDR JUMP
+p:ARD MDR
+28ef:ffff0000:0431:a401:10:0
+MDR SPUTNIK
+p:ARD MDR
+28f0:ffff0000:0431:a401:10:0
+MDR AKTUELL
+p:ARD MDR
+28f1:ffff0000:0431:a401:10:0
+MDR KLASSIK
+p:ARD MDR
+28f4:ffff0000:0431:a401:10:0
+rbb24 Inforadio
+p:ARD rbb
+28f5:ffff0000:0431:a401:10:0
+rbbKultur
+p:ARD rbb
+28f6:ffff0000:0431:a401:10:0
+Antenne Brbg.
+p:ARD rbb
+28f7:ffff0000:0431:a401:10:0
+rbb 88.8
+p:ARD rbb
+28f8:ffff0000:0431:a401:10:0
+radioeins
+p:ARD rbb
+28f9:ffff0000:0431:a401:10:0
+Fritz
+p:ARD rbb
 6dca:ffff0000:044d:a401:1:0
 Das Erste
 p:ARD
@@ -1715,86 +1934,86 @@ p:ARD
 6dd1:ffff0000:044d:a401:1:0
 SWR Fernsehen BW
 p:ARD
-6f03:ffff0000:044d:a401:2:0
-hr1
-p:ARD HR
-6f04:ffff0000:044d:a401:2:0
-hr2
-p:ARD HR
-6f05:ffff0000:044d:a401:2:0
-hr3
-p:ARD HR
-6f06:ffff0000:044d:a401:2:0
-hr4
-p:ARD HR
-6f07:ffff0000:044d:a401:2:0
-YOU FM
-p:ARD HR
-6f08:ffff0000:044d:a401:2:0
-hr-iNFO
-p:ARD HR
-6f2d:ffff0000:044d:a401:2:0
-SR 1 Europawelle
-p:ARD SR
-6f2e:ffff0000:044d:a401:2:0
-SR 2 KulturRadio
-p:ARD SR
-6f2f:ffff0000:044d:a401:2:0
-SR 3 Saarlandwelle
-p:ARD SR
-6f3b:ffff0000:044d:a401:2:0
-1LIVE
-p:ARD WDR
-6f3c:ffff0000:044d:a401:2:0
-WDR 2 Rheinland
-p:ARD WDR
-6f3d:ffff0000:044d:a401:2:0
-WDR 3
-p:ARD WDR
-6f3e:ffff0000:044d:a401:2:0
-WDR 4
-p:ARD WDR
-6f3f:ffff0000:044d:a401:2:0
-WDR 5
-p:ARD WDR
-6f40:ffff0000:044d:a401:2:0
-COSMO
-p:ARD WDR
-6f41:ffff0000:044d:a401:2:0
-1LIVE diGGi
-p:ARD WDR
-6f42:ffff0000:044d:a401:2:0
-Die Maus
-p:ARD WDR
-6f43:ffff0000:044d:a401:2:0
-WDR Event
-p:ARD WDR
-6ef0:ffff0000:044d:a401:2:0
+28a0:ffff0000:044d:a401:10:0
 Bayern 1
 p:ARD BR
-6ef1:ffff0000:044d:a401:2:0
+28a1:ffff0000:044d:a401:10:0
 Bayern 2
 p:ARD BR
-6ef2:ffff0000:044d:a401:2:0
+28a2:ffff0000:044d:a401:10:0
 BAYERN 3
 p:ARD BR
-6ef3:ffff0000:044d:a401:2:0
+28a3:ffff0000:044d:a401:10:0
 BR-KLASSIK
 p:ARD BR
-6ef4:ffff0000:044d:a401:2:0
-B5 aktuell
+28a4:ffff0000:044d:a401:10:0
+BR24
 p:ARD BR
-6ef5:ffff0000:044d:a401:2:0
+28a5:ffff0000:044d:a401:10:0
+BR24live
+p:ARD BR
+28a6:ffff0000:044d:a401:10:0
 BR Schlager
 p:ARD BR
-6ef6:ffff0000:044d:a401:2:0
+28a7:ffff0000:044d:a401:10:0
 PULS
 p:ARD BR
-6ef7:ffff0000:044d:a401:2:0
-BR Heimat
+28a8:ffff0000:044d:a401:10:0
+BR-Heimat
 p:ARD BR
-6ef8:ffff0000:044d:a401:2:0
-B5 plus
-p:ARD BR
+28c0:ffff0000:044d:a401:10:0
+SR 1 Europawelle
+p:ARD SR
+28c1:ffff0000:044d:a401:10:0
+SR 2 KulturRadio
+p:ARD SR
+28c2:ffff0000:044d:a401:10:0
+SR 3 Saarlandwelle
+p:ARD SR
+28d3:ffff0000:044d:a401:10:0
+1LIVE
+p:ARD WDR
+28d4:ffff0000:044d:a401:10:0
+WDR 2 Rheinland
+p:ARD WDR
+28d5:ffff0000:044d:a401:10:0
+WDR 3
+p:ARD WDR
+28d6:ffff0000:044d:a401:10:0
+WDR 4
+p:ARD WDR
+28d7:ffff0000:044d:a401:10:0
+WDR 5
+p:ARD WDR
+28d8:ffff0000:044d:a401:10:0
+COSMO
+p:ARD WDR
+28d9:ffff0000:044d:a401:10:0
+1LIVE diGGi
+p:ARD WDR
+28da:ffff0000:044d:a401:10:0
+Die Maus
+p:ARD WDR
+28db:ffff0000:044d:a401:10:0
+WDR Event
+p:ARD WDR
+28e1:ffff0000:044d:a401:10:0
+hr1
+p:ARD HR
+28e2:ffff0000:044d:a401:10:0
+hr2
+p:ARD HR
+28e3:ffff0000:044d:a401:10:0
+hr3
+p:ARD HR
+28e4:ffff0000:044d:a401:10:0
+hr4
+p:ARD HR
+28e5:ffff0000:044d:a401:10:0
+YOU FM
+p:ARD HR
+28e6:ffff0000:044d:a401:10:0
+hr-iNFO
+p:ARD HR
 end
 Editor:DreamSet 2.4.13 - http://www.dreamset-editor.com
