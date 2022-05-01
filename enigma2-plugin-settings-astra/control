@@ -4,6 +4,6 @@ Section: misc
 Priority: optional
 Architecture: all
 Depends: enigma2
-Maintainer: 
+Maintainer:  
 Description: Settings Astra 19.2
 Source: 
